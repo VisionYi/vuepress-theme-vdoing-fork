@@ -15,5 +15,8 @@ module.exports = {
 
   head,
   plugins,
-  themeConfig,
+  themeConfig: {
+    ...themeConfig,
+    smoothScroll: true,
+  }
 }

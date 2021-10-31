@@ -1,10 +1,10 @@
-# vuepress-theme-vdoing
+# vuepress-theme-vdoing-fork
 - Clone github project from [vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
 - 這是真實作者的 blog 內容
 - 此專案只用於 Dome 樣板主題、測試、發 PR 貢獻 (only on development)
 - 主要更新主題的方式為如下： [document](https://doc.xugaoyi.com/pages/793dcb/#%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7)
 ```shell
-npm update vuepress-theme-vdoing
+npm update vuepress-theme-vdoing -D
 ```
 
 ## Project setup
